@@ -1,0 +1,11 @@
+C:\Users\thabom.SPESNET\Documents\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\netcoreapp2.1\PrimeNumberGenerator.deps.json
+C:\Users\thabom.SPESNET\Documents\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\netcoreapp2.1\PrimeNumberGenerator.runtimeconfig.json
+C:\Users\thabom.SPESNET\Documents\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\netcoreapp2.1\PrimeNumberGenerator.runtimeconfig.dev.json
+C:\Users\thabom.SPESNET\Documents\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\netcoreapp2.1\PrimeNumberGenerator.dll
+C:\Users\thabom.SPESNET\Documents\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\netcoreapp2.1\PrimeNumberGenerator.pdb
+C:\Users\thabom.SPESNET\Documents\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\netcoreapp2.1\PrimeNumberGenerator.csprojAssemblyReference.cache
+C:\Users\thabom.SPESNET\Documents\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\netcoreapp2.1\PrimeNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\thabom.SPESNET\Documents\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\netcoreapp2.1\PrimeNumberGenerator.AssemblyInfoInputs.cache
+C:\Users\thabom.SPESNET\Documents\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\netcoreapp2.1\PrimeNumberGenerator.AssemblyInfo.cs
+C:\Users\thabom.SPESNET\Documents\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\netcoreapp2.1\PrimeNumberGenerator.dll
+C:\Users\thabom.SPESNET\Documents\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\netcoreapp2.1\PrimeNumberGenerator.pdb

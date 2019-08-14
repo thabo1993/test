@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\thabom.SPESNET\\Documents\\PrimeNumberGenerator\\PrimeNumberGenerator\\PrimeNumberGenerator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\thabom.SPESNET\\Documents\\PrimeNumberGenerator\\PrimeNumberGenerator\\PrimeNumberGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thabom.SPESNET\\Documents\\PrimeNumberGenerator\\PrimeNumberGenerator\\PrimeNumberGenerator.csproj",
+        "projectName": "PrimeNumberGenerator",
+        "projectPath": "C:\\Users\\thabom.SPESNET\\Documents\\PrimeNumberGenerator\\PrimeNumberGenerator\\PrimeNumberGenerator.csproj",
+        "packagesPath": "C:\\Users\\thabom.SPESNET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thabom.SPESNET\\Documents\\PrimeNumberGenerator\\PrimeNumberGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thabom.SPESNET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\192.168.2.12\\britton\\Nuget_EZMed": {},
+          "http://spessrv-tfs:8082/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
